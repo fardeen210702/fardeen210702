@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [https://fardeen210702.github.io/Portfolio/](https://fardeen210702.github.io/Portfolio/)
+- 👨‍💻 A few Projects  are available at [https://fardeen210702.github.io/Portfolio/](https://fardeen210702.github.io/Portfolio/)
 
 
 <h3 align="left">Connect with me:</h3>
