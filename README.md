@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://fardeen210702.github.io/Portfolio/](https://fardeen210702.github.io/Portfolio/)
 
-- 📄 Know about my experiences [Fresher](Fresher)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
