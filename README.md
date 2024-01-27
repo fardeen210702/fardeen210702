@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fardeen210702" alt="fardeen210702" /></a> </p>
 
-- 🔭 I’m currently working on **Microsoftclone using tailwindCSS**
+- 🔭 I’m currently working on **Personal Portfolio**
 
 - 🌱 I’m currently learning **tailwind CSS , Node.js**
 
