@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **tailwind CSS , Node.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **javascript, React.js**
 
