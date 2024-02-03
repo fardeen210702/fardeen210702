@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Fardeen.dev](https://fardeen21.netlify.app/)
 
-- 💬 Ask me about **javascript, REact.js**
+- 💬 Ask me about **javascript, React.js**
 
 - 📫 How to reach me **fardeenmohd1251@gmail.com**
 
