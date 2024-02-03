@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://fardeen21.netlify.app/](https://fardeen21.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://fardeen21.netlify.app/)
 
 - 💬 Ask me about **javascript, REact.js**
 
