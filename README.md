@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammed Fardeen</h1>
-<h3 align="center">A passionate frontend developer student from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardeen210702&label=Profile%20views&color=0e75b6&style=flat" alt="fardeen210702" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fardeen210702" alt="fardeen210702" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio**
-
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **javascript, React.js**
+- 👨‍💻 All of my projects are available at [https://fardeen21.netlify.app/](https://fardeen21.netlify.app/)
+
+- 💬 Ask me about **javascript, REact.js**
 
 - 📫 How to reach me **fardeenmohd1251@gmail.com**
 
