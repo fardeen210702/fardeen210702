@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fardeenmohd1251@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF0tSXoqPY/dJckE-nsWlwGG-4u8D733w/edit?utm_content=DAF0tSXoqPY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF0tSXoqPY/dJckE-nsWlwGG-4u8D733w/edit?utm_content=DAF0tSXoqPY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [fresher](https://www.canva.com/design/DAF0tSXoqPY/dJckE-nsWlwGG-4u8D733w/edit?utm_content=DAF0tSXoqPY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
