@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fardeen210702" alt="fardeen210702" /></a> </p>
 
-- 🔭 I’m currently working on **Freelance project**
-
-- 👨‍💻 All of my projects are available at [fardeen.me](fardeen.me)
+- 🔭 I’m currently working at **TigmaMinds**
 
 - 📫 How to reach me **fardeenmohd1251@gmail.com**
-
-- 📄 Know about my experiences [fardeen.me](fardeen.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
