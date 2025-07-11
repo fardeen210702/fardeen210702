@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fardeen210702" alt="fardeen210702" /></a> </p>
 
 - 🔭 I’m currently working at **TigmaMinds**
+- most of my repos are private and I am not active here 
+
 
 - 📫 How to reach me **fardeenmohd1251@gmail.com**
 
